@@ -17,7 +17,8 @@ Both programs are object-oriented and demonstrate basic Python programming princ
    - Check if any birthdays are repeated.
    - Repeat the experiment multiple times and calculate the fraction of trials with duplicates.
    - Display the estimated probability.
-  
+
+## Features  
 - **Word Counter**
   - Validate sentence input (non-empty string).
   - Split sentence into words and count occurrences.
